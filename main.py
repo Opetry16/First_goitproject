@@ -10,4 +10,11 @@ a=2
 b=3**5
 P=a+b
 print("Hello NEW YEAR")# this is not true
-
+name = "Oleg"
+f"Hello, {name}!"
+a = 3
+b = 5
+c = a < b   # True
+d = a > b   # False
+a == b      # False
+a != b      # True
